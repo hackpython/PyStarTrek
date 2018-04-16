@@ -1,4 +1,5 @@
 * [迭代器](迭代器.md)
 * [生成器](生成器.md)
 * [python中的元类](python中的元类.md)
+* [使用Python编写简单ORM](使用Python编写简单ORM.md)
 * [Python程序运行原理](Python程序运行原理.md)
