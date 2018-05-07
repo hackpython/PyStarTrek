@@ -3,3 +3,5 @@
 * [python中的元类](python中的元类.md)
 * [使用Python编写简单ORM](使用Python编写简单ORM.md)
 * [Python程序运行原理](Python程序运行原理.md)
+* [python format格式化函数漏洞](python_format格式化函数漏洞.md)
+* [python中的闭包](python中的闭包.md)
