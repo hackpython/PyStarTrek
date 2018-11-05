@@ -5,3 +5,4 @@
 * [Python程序运行原理](Python程序运行原理.md)
 * [python format格式化函数漏洞](python_format格式化函数漏洞.md)
 * [python中的闭包](python中的闭包.md)
+* [速查表](速查表.md)
